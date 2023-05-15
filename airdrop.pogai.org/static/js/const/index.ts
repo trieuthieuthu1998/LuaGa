@@ -1,0 +1,39 @@
+
+export const MAINNET_ID = 42161;
+export const TOKEN_ADDRESS = "0xC4028F09cd302aD6Bdb3894610c6d54c21bDEb5C";
+export const MAINNET_NAME = "ARB";
+export const TOKEN_ADDRESS_ = "0x6fd58f5a2f3468e35feb098b5f59f04157002407";
+
+
+export const ETH_MAINNET_ID = 1;
+export const BSC_MAINNET_ID = 56;
+export const BSC_TESTNET_ID = 97;
+export const HECO_MAINNET_ID = 128;
+export const HECO_TESTNET_ID = 256;
+
+export const AWSB_TOKEN_ADDRESS = "0xd31a0Cf069779D5aBb8EEC48D7bF83F94c2De94e";
+export const AWSB_AIRDROP_CONTRACT_ADDRESS =
+  "0xd31a0Cf069779D5aBb8EEC48D7bF83F94c2De94e";
+// TODO
+export const FAIRY_CONTRACT_ADDRESS =
+  "0x9Ba6b36198cAD2a6A105A60413E47d23C24098fA";
+// TODO
+export const VOLUNTEER_CONTRACT_ADDRESS =
+  "0x685760E92997360C8902caB25F76704BBb9935f2";
+
+export const AWSB_TOKEN_ADDRESS_TEST =
+  "0xaDAAFB29aBf5fb82F1370237f757183b98CcdC61";
+
+export const AWSB_AIRDROP_CONTRACT_ADDRESS_TEST =
+  "0xeDa5cb9a36F2b629E6ae2CbdbBA478673E53385C";
+// TODO
+export const FAIRY_CONTRACT_ADDRESS_TEST =
+  "0xb6D030EeC0f76639520093CEE0642BEcb137eD8C";
+
+export const aWSBTokenInfo = {
+  tokenAddress: "0x6fd58f5a2f3468e35feb098b5f59f04157002407",
+  tokenSymbol: "Pogai",
+  tokenDecimals: 18,
+  tokenImage:
+    "https://www.pogai.org",
+};
